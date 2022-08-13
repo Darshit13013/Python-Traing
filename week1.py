@@ -1,7 +1,3 @@
-def fist_prog():
-    print("hello World")
-
-
 while True:
     y = input("Do you continue the program"
               "please enter y/n: ")
